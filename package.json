@@ -17,6 +17,5 @@
   "license": "MIT",
   "devDependencies": {
     "react-query-devtools": "^2.4.7"
-  },
-  "main": "index.js"
+  }
 }
